@@ -17,11 +17,15 @@ This repository, **2Dwaveequation**, houses a Python implementation of a 2D wave
 
 Understanding wave propagation is fundamental across various scientific and engineering disciplines. The wave equation serves as a powerful mathematical tool to describe the dynamics of waves over time and space. This simulation aims to provide a visual representation of wave behavior for educational and exploratory purposes.
 
+![Wave simulation](wave1.jpg)
+
+![Wave simulation](wave2.jpg)
+
 ## Wave Equation Overview
 
 The 2D wave equation is expressed as:
 
-\[ \frac{\partial^2 u}{\partial t^2} = c^2 \left(\frac{\partial^2 u}{\partial x^2} + \frac{\partial^2 u}{\partial y^2}\right) \]
+![Wave Equation](equation1.jpg)
 
 where:
 - \(u\) represents the wave function,
@@ -29,7 +33,7 @@ where:
 - \(x\) and \(y\) are spatial coordinates,
 - \(c\) is the wave velocity.
 
-This equation establishes the relationship between the wave's acceleration (\(\frac{\partial^2 u}{\partial t^2}\)) and its spatial variations (\(\frac{\partial^2 u}{\partial x^2} + \frac{\partial^2 u}{\partial y^2}\)).
+![Wave Equation](equation2.jpg)
 
 ## Simulation Details
 
