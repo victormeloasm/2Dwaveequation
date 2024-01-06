@@ -61,7 +61,7 @@ pip install pygame
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your_username/2Dwaveequation.git
+git clone https://github.com/victormeloasm/2Dwaveequation.git
 cd 2Dwaveequation
 ```
 
